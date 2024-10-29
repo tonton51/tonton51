@@ -60,9 +60,21 @@ GameDirectorが一括管理できるようにコードを書きました
 [ゲーム用SpaceTag](https://github.com/tonton51/SpaceTag_Game)  
 **・プレイ動画**  
 [SpaceTag_紹介動画](https://youtu.be/hFSRcwkSedI)  
-[SpaceTag（製作途中）](https://youtu.be/7HOmGMuRceU)  
+[SpaceTag（制作途中）](https://youtu.be/7HOmGMuRceU)  
 **・内容**  
 ばねでつながれたクマとロケットを動かして星を多く回収するゲーム  
 **・ポイント**  
 ばねを用いた動き 
 今後片方をAIにして実装予定
+
+
+## タイトル未定（AIとのワード人狼）制作途中
+**・Repository**  
+[Wolftest](https://github.com/tonton51/Wolftest)  
+**・プレイ動画**  
+なし  
+**・内容**  
+AIが書いた文章か人間が書いた文章か当てるゲーム  
+**・ポイント**  
+制作途中のため，未実装な部分が多い  
+マッチング機能や文章送信部分は実装済み
