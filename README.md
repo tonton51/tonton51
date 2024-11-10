@@ -2,9 +2,9 @@
 学校で情報系を専攻しており，個人でゲーム開発を行っています．  
 使用しているエンジン・言語  
 ・Unity  
-・C#
-研究紹介
-CHLACによる3DCGアニメーション動画の異常検知
+・C#　　
+## 研究紹介　　
+CHLACによる3DCGアニメーション動画の異常検知  
 https://www.youtube.com/watch?v=6caVuoMdD-w
 
 
