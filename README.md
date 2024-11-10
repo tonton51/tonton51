@@ -3,6 +3,9 @@
 使用しているエンジン・言語  
 ・Unity  
 ・C#
+研究紹介
+CHLACによる3DCGアニメーション動画の異常検知
+https://www.youtube.com/watch?v=6caVuoMdD-w
 
 
 <!--
