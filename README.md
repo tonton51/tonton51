@@ -63,7 +63,7 @@ GameDirectorが一括管理できるようにコードを書きました
 [ゲーム用SpaceTag](https://github.com/tonton51/SpaceTag_Game)  
 **・プレイ動画**  
 [SpaceTag_紹介動画](https://youtu.be/hFSRcwkSedI)  
-[SpaceTag（制作途中）](https://youtu.be/7HOmGMuRceU)  
+[SpaceTag（制作途中）](https://youtu.be/vBoNNkT2Sag)  
 **・内容**  
 ばねでつながれたクマとロケットを動かして星を多く回収するゲーム  
 **・ポイント**  
